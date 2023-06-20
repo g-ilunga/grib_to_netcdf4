@@ -1,6 +1,4 @@
-# grib_to_netcdf4
-
-Python script to convert grib files to NetCDF using xarray
+# grib_to_netCDF4
 
 
 The purpose of this script is show how to convert .grib files to NetCDF4 using Xarray. This script is designed for users who are programming on Windows computer and using Ananconda.
