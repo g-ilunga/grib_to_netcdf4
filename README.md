@@ -1,6 +1,5 @@
 # grib_to_netCDF4
 
-
 The purpose of this script is show how to convert .grib files to NetCDF4 using Xarray. This script is designed for users who are programming on Windows computer and using Ananconda.
 
 Before running the script, ensure to have follow the following step:
@@ -29,4 +28,4 @@ Before running the script, ensure to have follow the following step:
 
 5. Go to Jupyter notebook (or Spyder), and connect to to the newly created environment (gribenv)
 
-6. Run the script as described below
+6. Run the script
