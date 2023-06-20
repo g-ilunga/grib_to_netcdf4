@@ -1,7 +1,7 @@
 # %% [markdown]
 # # The purpose of this script is show how to convert .grib files to NetCDF4. This script is designed for users who are programming on Windows computer and using Ananconda.
 # 
-# # Before running the script, ensure to have follow the following step:
+# # Before running the script, ensure to have followed the following steps:
 # 
 # 1. Open Anaconda prompt
 # 
